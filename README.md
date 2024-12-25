@@ -1,3 +1,4 @@
+![Version vertical vectorzada](https://github.com/user-attachments/assets/31632cc3-e54c-40f2-8ff7-5d45de8227f1)
 👋 Hola, Soy Nodos
 
 Somos una empresa líder en el desarrollo de software a medida, comprometida con impulsar la transformación digital de negocios en diversos sectores. Nuestra misión es brindar soluciones tecnológicas innovadoras que optimicen los procesos, mejoren la productividad y permitan a nuestros clientes alcanzar sus objetivos estratégicos.
