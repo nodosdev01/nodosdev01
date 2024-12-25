@@ -4,7 +4,7 @@ Somos una empresa líder en el desarrollo de software a medida, comprometida con
 
 ---
 
-🌐 Conéctate Con nosotros
+🌐 Conéctate con nosotros
 - :email:  nodosdevcoworking@gmail.com
 
 ---
