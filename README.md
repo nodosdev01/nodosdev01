@@ -1,8 +1,9 @@
 - 👋 Hola, Soy Nodos
+-  :sunglasses: Crea, Conecta e Innova
 - 👀 Interesado en nuevo proyectos
 - 💞️ Desarrollamos con pasión 
 - 📫 Desarrollo Software
-- ⚡ Lo hacemos funcionar 
+- ⚡ Lo hacemos funcionar
 
 <!---
 nodosdev01/nodosdev01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
