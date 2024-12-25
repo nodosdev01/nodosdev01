@@ -3,7 +3,7 @@
 Somos una empresa líder en el desarrollo de software a medida, comprometida con impulsar la transformación digital de negocios en diversos sectores. Nuestra misión es brindar soluciones tecnológicas innovadoras que optimicen los procesos, mejoren la productividad y permitan a nuestros clientes alcanzar sus objetivos estratégicos.
 
 🌐 Conéctate Con nosotros
-:email: Correo: nodosdevcoworking@gmail.com
+- :email:  nodosdevcoworking@gmail.com
 
  
 -  :sunglasses: Crea, Conecta e Innova
