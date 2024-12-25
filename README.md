@@ -10,4 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![vercion-horizontal](https://github.com/user-attachments/assets/961ecb73-c9d7-464e-8000-4028b2d163a5)
+![Version vertical vectorzada](https://github.com/user-attachments/assets/9238e1e8-f636-46e2-adc3-5a946a75375f)
+
